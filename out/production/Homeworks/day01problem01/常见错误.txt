@@ -1,0 +1,65 @@
+错误一：main()方法参数中的“String[]”忘带“[]”
+编译运行情况：编译通过，运行失败，运行时显示信息：
+错误: 在类 HelloWorld 中找不到 main 方法, 请将 main 方法定义为:
+   public static void main(String[] args)
+否则 JavaFX 应用程序类必须扩展javafx.application.Application
+
+错误二：main()方法忘带参数“String[] args”
+编译运行情况：编译通过，运行失败
+错误: 在类 HelloWorld 中找不到 main 方法, 请将 main 方法定义为:
+   public static void main(String[] args)
+否则 JavaFX 应用程序类必须扩展javafx.application.Application
+
+错误三：main()方法中参数写成了“String args[]”
+编译运行情况：编译通过，运行成功
+还是应该按规范写
+
+错误四：类名与文件名不同
+编译运行情况：编译未通过，编译时显示信息：
+HelloWorld.java:1: 错误: 类 HelloWorl 是公共的, 应在名为 HelloWorl.java 的文件中声明
+public class HelloWorl {
+       ^
+1 个错误
+
+错误五：漏掉一个双引号
+编译运行情况：编译未通过，编译时显示信息：
+HelloWorld.java:3: 错误: 未结束的字符串文字
+        System.out.println("Hello, World!);
+                           ^
+1 个错误
+
+错误六：漏掉一对双引号
+编译运行情况：编译未通过，编译时显示信息：
+HelloWorld.java:3: 错误: 需要')'
+        System.out.println(Hello, World!);
+                                       ^
+1 个错误
+
+错误七：漏掉分号
+编译运行情况：编译未通过，编译时显示信息：
+HelloWorld.java:3: 错误: 需要';'
+        System.out.println("Hello, World!")
+                                           ^
+1 个错误
+
+错误八：误用中文分号
+编译运行情况：编译未通过
+HelloWorld.java:3: 错误: 编码 GBK 的不可映射字符 (0x9B)
+        System.out.println("Hello, World!")锛?
+                                            ^
+HelloWorld.java:3: 错误: 需要';'
+        System.out.println("Hello, World!")锛?
+                                           ^
+2 个错误
+
+错误九：没有main()方法，将main()方法命名写错为mian()、mani()等
+编译运行情况：编译通过，运行失败，运行时显示信息：
+错误: 在类 HelloWorld 中找不到 main 方法, 请将 main 方法定义为:
+   public static void main(String[] args)
+否则 JavaFX 应用程序类必须扩展javafx.application.Application
+
+错误十：将main方法定义为private型
+编译运行情况：编译通过，运行失败，运行时显示信息：
+错误: 在类 HelloWorld 中找不到 main 方法, 请将 main 方法定义为:
+   public static void main(String[] args)
+否则 JavaFX 应用程序类必须扩展javafx.application.Application

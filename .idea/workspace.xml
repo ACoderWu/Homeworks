@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3136bf02-7bdb-4492-a879-bde63249aa09" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/wkq00.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-01 概述/day01problem01/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-01 概述/day01problem01/常见错误.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-01 概述/day01problem02/几个小问题.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-01 概述/day01problem03/设置环境变量使QQ或者微信可以在任意目录下，通过命令行执行.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-02 Javabasic01/day02problem01/第一题.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-02 Javabasic01/day02problem02/第二题.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-02 Javabasic01/day02problem03/第三题.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-02 Javabasic01/day02problem04/MixedDataTypeOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-02 Javabasic01/day02problem04/第四题.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-03 Javabasic01&amp;02/day03problem02/AbsoluteValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-03 Javabasic01&amp;02/day03problem03/MultiplicationTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-03 Javabasic01&amp;02/day03problem04/RelationCompute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-03 Javabasic01&amp;02/day03problem05/SaveMoney.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-03 Javabasic01&amp;02/day03problem06/PalindromeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-03 Javabasic01&amp;02/day03problem07/NumberOf1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-03 Javabasic01&amp;02/day03problem07/SearchSqrtInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-04 javabasic03/day-04 javabasic03_吴开桥_改.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-04 javabasic03/day04problem02/SearchNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-04 javabasic03/day04problem03/TargetSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-04 javabasic03/day04problem04/DigitJump.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-04 javabasic03/day04problem04/DigitJumpSolving2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-04 javabasic03/day04problem04/想出了两个解法，目前解法一有bug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-04 javabasic03/昨晚选做题没做对，今天重新做了一下" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Homeworks/HelloWorld.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Homeworks/META-INF/Homeworks.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Homeworks/day01problem01/常见错误.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Homeworks/day01problem02/几个小问题.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Homeworks/day01problem03/设置环境变量使QQ或者微信可以在任意目录下，通过命令行执行.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Homeworks/day02problem01/第一题.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Homeworks/day02problem02/第二题.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Homeworks/day02problem03/第三题.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Homeworks/day02problem04/MixedDataTypeOperations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Homeworks/day02problem04/第四题.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Homeworks/day03problem02/AbsoluteValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Homeworks/day03problem03/MultiplicationTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Homeworks/day03problem04/RelationCompute.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Homeworks/day03problem05/SaveMoney.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Homeworks/day03problem06/PalindromeNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Homeworks/day03problem07/NumberOf1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Homeworks/day03problem07/SearchSqrtInteger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Homeworks/day04problem02/SearchNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Homeworks/day04problem03/TargetSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Homeworks/day04problem04/DigitJump.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Homeworks/day04problem04/DigitJumpSolving2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Homeworks/day04problem04/想出了两个解法验证后解法二是没有bug的" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Homeworks/day04problem04/解法一" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Homeworks" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\WangDao19th\Homeworks" />
+        <option value="D:\WangDao19th\Homeworks\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VkJWt4nNUlYhKq0CqrxIlPEzGB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577759095099" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WangDao19th\Homeworks\day-02 Javabasic01\problem04" />
+      <recent name="D:\WangDao19th\Homeworks\day-02 Javabasic01\problem03" />
+      <recent name="D:\WangDao19th\Homeworks\day-02 Javabasic01\problem02" />
+      <recent name="D:\WangDao19th\Homeworks\day-02 Javabasic01\problem01" />
+      <recent name="D:\WangDao19th\Homeworks\day-02 Javabasic01" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="day04problem04" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WangDao19th\Homeworks\day-01 概述\problem01" />
+      <recent name="D:\WangDao19th\Homeworks\day-03 Javabasic01&amp;02\Problem2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DigitJumpSolving2">
+    <configuration name="DigitJump" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day04problem04.DigitJump" />
+      <module name="Homeworks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day04problem04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DigitJumpSolving2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day04problem04.DigitJumpSolving2" />
+      <module name="Homeworks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day04problem04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MixedDataTypeOperations (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day02problem04.MixedDataTypeOperations" />
+      <module name="Homeworks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day02problem04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day04problem02.SearchNumber" />
+      <module name="Homeworks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day04problem02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TargetSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day04problem03.TargetSum" />
+      <module name="Homeworks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day04problem03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DigitJumpSolving2" />
+        <item itemvalue="Application.DigitJump" />
+        <item itemvalue="Application.SearchNumber" />
+        <item itemvalue="Application.TargetSum" />
+        <item itemvalue="Application.MixedDataTypeOperations (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3136bf02-7bdb-4492-a879-bde63249aa09" name="Default Changelist" comment="" />
+      <created>1577709789815</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577709789815</updated>
+      <workItem from="1577709793444" duration="6547000" />
+      <workItem from="1577716383834" duration="107000" />
+      <workItem from="1577716516214" duration="2437000" />
+      <workItem from="1577718984512" duration="1084000" />
+      <workItem from="1577754874334" duration="1259000" />
+      <workItem from="1577756795328" duration="268000" />
+      <workItem from="1577757094521" duration="2077000" />
+      <workItem from="1577791199563" duration="15288000" />
+      <workItem from="1577809175976" duration="4199000" />
+      <workItem from="1577815991146" duration="385000" />
+      <workItem from="1577842060669" duration="8928000" />
+      <workItem from="1577851194040" duration="621000" />
+      <workItem from="1577894835582" duration="68000" />
+      <workItem from="1577895246345" duration="476000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="504" y="27" key="#Project_Structure" timestamp="1577791300425">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="504" y="27" key="#Project_Structure/0.0.1920.1050@0.0.1920.1050" timestamp="1577791300425" />
+    <state x="786" y="392" key="Github.ShareDialog" timestamp="1577895424950">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="786" y="392" key="Github.ShareDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1577895424950" />
+    <state x="616" y="165" key="Github.UntrackedFilesDialog" timestamp="1577895446284">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="616" y="165" key="Github.UntrackedFilesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1577895446284" />
+    <state width="1865" height="258" key="GridCell.Tab.0.bottom" timestamp="1577851774125">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1865" height="258" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1577851774125" />
+    <state width="1865" height="258" key="GridCell.Tab.0.center" timestamp="1577851774125">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1865" height="258" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1577851774125" />
+    <state width="1865" height="258" key="GridCell.Tab.0.left" timestamp="1577851774125">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1865" height="258" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1577851774125" />
+    <state width="1865" height="258" key="GridCell.Tab.0.right" timestamp="1577851774125">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1865" height="258" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1577851774125" />
+    <state x="59" y="39" width="1711" height="883" key="SettingsEditor" timestamp="1577895343432">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="59" y="39" width="1711" height="883" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1577895343432" />
+    <state x="1080" y="239" key="extract.method.dialog" timestamp="1577815605620">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1080" y="239" key="extract.method.dialog/0.0.1920.1050@0.0.1920.1050" timestamp="1577815605620" />
+    <state x="367" y="15" width="840" height="1034" key="search.everywhere.popup" timestamp="1577814795066">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="367" y="15" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1577814795066" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+</project>

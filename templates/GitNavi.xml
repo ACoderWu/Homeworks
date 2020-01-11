@@ -1,0 +1,85 @@
+<templateSet group="GitNavi">
+  <template name="system" value="System.out.println(&quot;--------------------------------&quot; + $END$);" description="System.out 控制台打印" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="new" value="$VAR1$ $VAR2$ = new $VAR1$();" description="new 对象" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="cmt" value="/*$VAR0$ start*/&#10;/*$VAR0$ end*/$END$" description="注释 Java+JS+CSS+SQL" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR0" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="log-info" value="logger.info(&quot;----------------GitNavi----------------$VAR1$ [{}]&quot;, $VAR2$);" description="log4j2 输出 Info 信息" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="map" value="Map&lt;String, Object&gt; $VAR1$ = new HashMap&lt;&gt;();" description="HashMap 生成" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JSP" value="true" />
+    </context>
+  </template>
+  <template name="logger" value="private static final Logger logger = LogManager.getLogger();" description="Log4j2 对象" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="log-debug" value="logger.debug(&quot;----------------GitNavi----------------$VAR1$ [{}]&quot;, $VAR2$);" description="log4j2 输出 debug 信息" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="log-error" value="logger.error(&quot;----------------GitNavi----------------$VAR1$ [{}]&quot;, $VAR2$);" description="log4j2 输出 error 信息" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="list" value=" List&lt;$VAR1$&gt; $VAR2$ = new ArrayList&lt;&gt;();" description="ArrayList 生成" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JSP" value="true" />
+    </context>
+  </template>
+  <template name="cmt-partition" value="//=====================================$VAR0$ start=====================================&#10;$END$&#10;//=====================================$VAR0$  end=====================================" description="Java 开始和结束代码区注释" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR0" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="cmt-line" value="//=================================================================================" description="注释划分线" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="true" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="log-trace" value="logger.trace(&quot;----------------GitNavi----------------$VAR1$ [{}]&quot;, $VAR2$);" description="log4j2 输出 trace 信息" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

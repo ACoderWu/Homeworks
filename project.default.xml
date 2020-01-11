@@ -1,0 +1,126 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="CodeInsightWorkspaceSettings">
+        <option name="optimizeImportsOnTheFly" value="true" />
+      </component>
+      <component name="CompilerConfiguration">
+        <option name="BUILD_PROCESS_HEAP_SIZE" value="1024" />
+      </component>
+      <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8" addBOMForNewFiles="with NO BOM">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="GithubDefaultAccount">
+        <option name="defaultAccountId" value="0c90fee5-c16d-4744-a2c9-098855572aa1" />
+      </component>
+      <component name="InspectionProjectProfileManager">
+        <profile version="1.0">
+          <option name="myName" value="Project Default" />
+          <inspection_tool class="SerializableHasSerialVersionUIDField" enabled="true" level="WARNING" enabled_by_default="true">
+            <option name="ignoreAnonymousInnerClasses" value="false" />
+            <option name="superClassString" value="" />
+          </inspection_tool>
+        </profile>
+        <version value="1.0" />
+      </component>
+      <component name="JsFlowSettings">
+        <service-enabled>true</service-enabled>
+        <exe-path />
+        <annotation-enable>false</annotation-enable>
+        <other-services-enabled>true</other-services-enabled>
+        <auto-save>true</auto-save>
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>Java</id>
+              </State>
+              <State>
+                <id>Serialization issuesJava</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>SerializableHasSerialVersionUIDField</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
+      <component name="ProjectViewState">
+        <option name="hideEmptyMiddlePackages" value="true" />
+        <option name="showExcludedFiles" value="true" />
+        <option name="showLibraryContents" value="true" />
+        <option name="showMembers" value="true" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="project.structure.last.edited" value="SDKs" />
+        <property name="project.structure.proportion" value="0.0" />
+        <property name="project.structure.side.proportion" value="0.2" />
+        <property name="settings.editor.selected.configurable" value="settings.github" />
+      </component>
+      <component name="VcsManagerConfiguration">
+        <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="GlobalLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="JdkListConfigurable.UI">
+            <settings>
+              <last-edited>11</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>11</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

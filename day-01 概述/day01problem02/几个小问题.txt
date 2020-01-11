@@ -1,9 +1,0 @@
-     A:JDK,JRE,JVM分别是什么?
-	JDK是Java development kit即Java开发工具集，里面包含了javac、javap等工具，还包括了jre，用于开发Java程序
-	JRE是Java runtime environment即Java运行环境，里面包含了jvm、运行时核心类库等，是已写好了的Java程序运行的必需环境
-	JVM是Java virtual machine 即Java虚拟机，是编译好了的Java字节码的运行平台，Java语言的跨平台特性由jvm实现
-     B:Java语言是跨平台的吗?JVM是跨平台的吗?
-	是，Java语言具有一次编译，处处运行的特点，是跨平台的
-	不是，JVM的具体实现依赖于硬件环境，不是跨平台的
-     C:有兴趣的同学可以去了解下JVM的家族考。
-	收藏并阅读了一篇博文 https://www.cnblogs.com/snifferhu/p/3491657.html
